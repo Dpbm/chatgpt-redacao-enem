@@ -1,15 +1,14 @@
 I need you to create for me a essay about 'The stigma associated with mental illness in Brazilian society', 
-with at most 30 lines.
+with 30 lines.
 
 The structure that I want is the follow:
 - In the first paragraph, you need to introduce the reader to theme. You also need to introduce them to your point of view. 
-It needs to have, at most, 7 lines. Don't cite the structure that I've told you.
+Don't cite the structure that I've told you.
 - In the second and third paragraphs, you need to show some arguments that prove your point of view, to do this you must 
-use some researches, news, movies, books, thinkers, etc. to relate and comprove your vision. These paragraphs need to 
-have 8 lines, at most. Remember to cite where you got the information from.
+use some researches, news, movies, books, thinkers, etc. to relate and comprove your vision. Remember to cite where you got the information from.
 - In the last paragraph, you need to conclude writing a intervention proposal, that is related with your arguments, that is
 possible to do, and show: who will solve, what will be done, how it will be done and what's the impact of your solution 
-to the problem. With about 7 lines.
+to the problem.
 
 Note:
  - the text will be write in Brazilian portuguese
@@ -22,3 +21,5 @@ Note:
 - you need to be impersonal
 - use the third person
 - don't cite the text that I've typed as prompt
+- the first and the last paragraph need to have 7 lines
+- the second and third ones need to have 8 lines

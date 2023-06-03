@@ -143,3 +143,40 @@ Outro aspecto relevante é a necessidade de fortalecer os serviços de saúde me
 A implementação dessas medidas terá um impacto positivo significativo. A redução do estigma associado às doenças mentais promoverá a inclusão social, estimulará a busca por tratamento adequado e proporcionará melhores condições de vida para as pessoas afetadas. Além disso, a sociedade como um todo se beneficiará de uma compreensão mais ampla sobre a importância da saúde mental, resultando em uma comunidade mais solidária e acolhedora.
 
 Em resumo, o estigma associado às doenças mentais na sociedade brasileira é um desafio que exige uma abordagem abrangente e informada. A educação, a conscientização, a capacitação de profissionais e o fortalecimento dos serviços de saúde mental são pilares essenciais para combater esse estigma e promover uma sociedade mais inclusiva e empática. Somente com ações concretas e colaborativas será possível criar um ambiente que valorize a saúde mental e respeite a dignidade de todas as pessoas.```
+## I need you to create for me a essay about 'The stigma associated with mental illness in Brazilian society', 
+with 30 lines.
+
+The structure that I want is the follow:
+- In the first paragraph, you need to introduce the reader to theme. You also need to introduce them to your point of view. 
+Don't cite the structure that I've told you.
+- In the second and third paragraphs, you need to show some arguments that prove your point of view, to do this you must 
+use some researches, news, movies, books, thinkers, etc. to relate and comprove your vision. Remember to cite where you got the information from.
+- In the last paragraph, you need to conclude writing a intervention proposal, that is related with your arguments, that is
+possible to do, and show: who will solve, what will be done, how it will be done and what's the impact of your solution 
+to the problem.
+
+Note:
+ - the text will be write in Brazilian portuguese
+ - you need to use the formal language
+ - you can't disrespect the human rights
+ - you can't pass the total of 30 lines
+ - There're some skills that will be avaliated like: knowledge about the theme, coherence, cohesion, good structure in 
+ your paragraphs and phrases, good argumentation, etc.
+- create exactly 4 paragraphs as I showed you above
+- you need to be impersonal
+- use the third person
+- don't cite the text that I've typed as prompt
+- the first and the last paragraph need to have 7 lines
+- the second and third ones need to have 8 lines
+
+```O estigma associado às doenças mentais na sociedade brasileira é uma questão amplamente presente e preocupante. Esse estigma contribui para a discriminação, o preconceito e a exclusão social de pessoas que enfrentam problemas de saúde mental. Diante desse cenário, é fundamental abordar o tema e propor ações para combater esse estigma, promovendo uma sociedade mais inclusiva e acolhedora.
+
+Diversas pesquisas científicas e estudos têm evidenciado a existência do estigma em relação às doenças mentais no contexto brasileiro. Segundo levantamento do Ministério da Saúde, cerca de 30% da população brasileira já sofreu ou sofre com algum transtorno mental. No entanto, a falta de conhecimento e a perpetuação de estereótipos negativos dificultam a busca por tratamento e o apoio social, aumentando o sofrimento das pessoas afetadas.
+
+A influência da mídia também é um fator relevante no estigma associado às doenças mentais. Filmes, programas de televisão e notícias frequentemente retratam esses transtornos de forma sensacionalista e distorcida, contribuindo para a perpetuação de estereótipos e preconceitos. É necessário promover uma mídia responsável e consciente, que apresente informações corretas e sensibilize a população sobre a importância da saúde mental.
+
+Uma intervenção efetiva para combater o estigma deve envolver diferentes atores sociais. Instituições de saúde, governamentais e não governamentais, devem promover campanhas de conscientização, por meio de diferentes meios de comunicação, para desmistificar as doenças mentais e fornecer informações precisas sobre os transtornos e seus tratamentos. Além disso, é fundamental investir na formação e capacitação dos profissionais de saúde, a fim de garantir um atendimento adequado e livre de estigmas.
+
+A criação de espaços de diálogo e apoio, como grupos de suporte e terapia comunitária, também pode desempenhar um papel fundamental na redução do estigma e na promoção da inclusão. Esses espaços oferecem suporte emocional, compartilhamento de experiências e a oportunidade de construir redes de apoio entre pessoas que enfrentam desafios semelhantes. Essas ações têm o potencial de promover a aceitação e o acolhimento, transformando a maneira como a sociedade enxerga e lida com as doenças mentais.
+
+Em suma, o estigma associado às doenças mentais na sociedade brasileira é uma realidade que demanda ações enérgicas e comprometidas. Por meio de campanhas de conscientização, educação, formação de profissionais de saúde e criação de espaços de apoio, é possível reduzir o estigma, promover a inclusão e garantir um ambiente mais justo e respeitoso para todas as pessoas. Essa transformação impactará positivamente a vida das pessoas afetadas, fortalecerá a saúde mental coletiva e contribuirá para a construção de uma sociedade mais saudável e solidária.```
