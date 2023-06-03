@@ -272,3 +272,35 @@ A fim de combater o estigma, é fundamental promover a conscientização e a edu
 Uma intervenção proposta para enfrentar o estigma é a implementação de campanhas de conscientização em larga escala, envolvendo diferentes setores da sociedade, como o governo, instituições de saúde, escolas e mídia. Essas campanhas devem abordar o tema de maneira abrangente, disseminando informações corretas, desconstruindo estereótipos negativos e promovendo uma visão mais humanizada das doenças mentais. Além disso, é necessário investir na capacitação de profissionais da saúde e na criação de espaços de diálogo e apoio para as pessoas afetadas por doenças mentais, visando a redução do estigma e o fortalecimento da inclusão social.
 
 Em síntese, o estigma associado às doenças mentais na sociedade brasileira é um desafio que requer uma abordagem abrangente e colaborativa. Por meio de campanhas de conscientização, educação e criação de redes de apoio, é possível reduzir o estigma, promover uma maior compreensão e respeito em relação às pessoas com doenças mentais e, consequentemente, melhorar sua qualidade de vida e inclusão social.```
+## I need you to create for me a essay about 'The stigma associated with mental illness in Brazilian society' with 3 paragraphs and 1 intervention proposal.
+
+The structure that I want is the follow:
+- In the first paragraph, you need to introduce the reader to theme. You also need to introduce them to your point of view. 
+Don't cite the structure that I've told you.
+- In the second and third paragraphs, you need to show some arguments that prove your point of view, to do this you must 
+use some researches, news, movies, books, thinkers, etc. to relate and comprove your vision. Remember to cite where you got the information from.
+- In the end, you need to conclude writing a intervention proposal, that is related with your arguments, that is
+possible to do, and show: who will solve, what will be done, how it will be done and what's the impact of your solution 
+to the problem. Don't be too detail-oriented, write the proposal with a few sentences
+
+Note:
+ - the text will be write in Brazilian portuguese
+ - you need to use the formal language
+ - you can't disrespect the human rights
+ - There're some skills that will be avaliated like: knowledge about the theme, coherence, cohesion, good structure in 
+ your paragraphs and phrases, good argumentation, etc.
+- you need to be impersonal
+- use the third person
+- don't cite the text that I've typed as prompt
+
+```O estigma associado às doenças mentais na sociedade brasileira é uma realidade que requer atenção e ação. A visão estigmatizante cria barreiras para aqueles que sofrem de problemas de saúde mental, impedindo seu pleno desenvolvimento e inclusão social. É importante abordar essa questão e buscar soluções que promovam uma mudança positiva nesse cenário.
+
+Pesquisas e estudos têm demonstrado a existência do estigma em relação às doenças mentais no Brasil. De acordo com o relatório do Conselho Federal de Psicologia (CFP), a estigmatização afeta a vida das pessoas, resultando em discriminação, exclusão social e dificuldade de acesso a serviços de saúde mental. Além disso, a mídia desempenha um papel significativo na perpetuação de estereótipos negativos, retratando erroneamente as doenças mentais e reforçando preconceitos.
+
+Para combater o estigma, é necessário promover a conscientização e a educação da sociedade. Campanhas de informação e sensibilização devem ser implementadas, abrangendo diversos setores, como escolas, instituições de saúde e mídia. Essas campanhas devem fornecer informações baseadas em evidências científicas, desmistificar os estereótipos negativos e enfatizar a importância do tratamento adequado e do apoio às pessoas com doenças mentais.
+
+Uma intervenção proposta é a criação de programas de educação em saúde mental nas escolas, com o objetivo de promover uma cultura de compreensão e empatia desde a infância. Esses programas podem incluir palestras, workshops e atividades que abordem o tema de forma acessível e informativa. Ao fornecer informações precisas e combater os estereótipos, é possível reduzir o estigma desde cedo e construir uma sociedade mais inclusiva, onde as pessoas com doenças mentais sejam respeitadas e acolhidas.
+
+Em suma, a luta contra o estigma associado às doenças mentais na sociedade brasileira requer esforços conjuntos. Por meio da conscientização, da educação e da implementação de programas de saúde mental nas escolas, é possível promover uma mudança de atitude, contribuindo para a inclusão e o bem-estar das pessoas afetadas por doenças mentais.```
+## Rewrite the last two paragraphs, into one with 7 lines 
+```Para combater o estigma associado às doenças mentais na sociedade brasileira, é fundamental investir em ações de conscientização e educação. Campanhas de informação devem ser desenvolvidas em diferentes setores, como escolas, instituições de saúde e mídia, com o objetivo de desmistificar estereótipos, fornecer informações baseadas em evidências e promover a compreensão das doenças mentais. Além disso, é importante implementar programas de educação em saúde mental nas escolas, visando criar uma cultura de compreensão desde a infância. Ao combater o estigma e promover a inclusão, podemos construir uma sociedade mais acolhedora e oferecer apoio adequado às pessoas que sofrem de doenças mentais.```
