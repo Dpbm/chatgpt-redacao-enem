@@ -2,6 +2,11 @@
 
 Neste respositório mostrarei minha tentativa em criar uma redação do enem usando o chatgpt.
 
+## Ferramentas usadas
+
+1. gpt 3.5
+2. [gptmd](https://github.com/Dpbm/gptmd) - extensão para exportar a conversa para markdown
+
 ## Ideia inicial
 
 Recentemente, me deparei com vários projetos usando o chatgpt para os mais diversos fins. Desde um assistente virtual até um bot que consegue jogar minecraft.
